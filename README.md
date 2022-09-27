@@ -18,9 +18,15 @@ Data from https://www.kaggle.com/code/jennifercrockett/marketing-analytics-eda-t
 *PowerBI Key Influencers visualization, Donut visualization, Slicers/Filters, Cards
 
 ## Files
+
 marketing_data.pbix - PowerBI file containing dashboard exploring wine sales and impact of recent marketing campaign on customer recency. 
+
 marketing_data.csv - Marketing data regarding customer demographics, sales, and marketing campaign acceptance rates.
+
 Wine.jpg - Complete dashboard.
+
 Wine1.jpg - Key Influencer visualization.
+
 Wine2.jpg - Key Infuencer visualization.
+
 Recency Analysis.jpg - Combination visualization.
